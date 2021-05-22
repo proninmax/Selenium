@@ -1,0 +1,11 @@
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\bin\Debug\Pages.dll
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\bin\Debug\Pages.pdb
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\bin\Debug\SeleniumExtras.PageObjects.dll
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\bin\Debug\WebDriver.dll
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\bin\Debug\WebDriver.Support.dll
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\bin\Debug\WebDriver.xml
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\bin\Debug\WebDriver.Support.xml
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\obj\Debug\Pages.csproj.CoreCompileInputs.cache
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\obj\Debug\Pages.csproj.CopyComplete
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\obj\Debug\Pages.dll
+D:\Desktop\E-pam\Selnium2\По классам\Test_NothWind\Pages\obj\Debug\Pages.pdb
