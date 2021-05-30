@@ -1,0 +1,15 @@
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\bin\Debug\net5.0\PageObject.deps.json
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\bin\Debug\net5.0\PageObject.dll
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\bin\Debug\net5.0\ref\PageObject.dll
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\bin\Debug\net5.0\PageObject.pdb
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\bin\Debug\net5.0\Pages.dll
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\bin\Debug\net5.0\Pages.pdb
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.csprojAssemblyReference.cache
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.AssemblyInfoInputs.cache
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.AssemblyInfo.cs
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.csproj.CoreCompileInputs.cache
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.csproj.CopyComplete
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.dll
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\ref\PageObject.dll
+D:\Desktop\E-pam\SpecFlow\Test_NothWind_SpecFlow\PageObject\obj\Debug\net5.0\PageObject.pdb
